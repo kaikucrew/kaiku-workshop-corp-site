@@ -2,6 +2,25 @@
 
 A modern corporate website built with Next.js, featuring a home page, news section, and people directory.
 
+```
+┌─────────────────────────────────────┐
+│                                     │
+│  ┌───────────────────────────────┐  │
+│  │                               │  │
+│  │            UI                 │  │
+│  │                               │  │
+│  └───────────────────────────────┘  │
+│                                     │
+│  ┌───────────────────────────────┐  │
+│  │                               │  │
+│  │            API                │  │
+│  │                               │  │
+│  └───────────────────────────────┘  │
+│                                     │
+│                          NextJS     │
+└─────────────────────────────────────┘
+```
+
 ## Overview
 
 This is a Next.js application built with TypeScript and Tailwind CSS. The application demonstrates modern web development practices including:
